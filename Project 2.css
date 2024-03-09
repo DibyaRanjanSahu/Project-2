@@ -1,0 +1,217 @@
+.Heading {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    height: 100px;
+    background-color: rgb(100, 100, 250);
+}
+.Name {
+    width: 1px;
+    height: 1px;
+    margin-top: 1%;
+    margin-left: 1%;
+    font-size: 30px;
+}
+.H1 {
+    width: 1px;
+    height: 1px;
+    margin-top: 1.5%;
+    margin-left: 1%;
+    font-size: 20px;
+}
+.U1 {
+    width: 2px;
+    height: 1px;
+    margin-top: 1.5%;
+    margin-left: 0%;
+    font-size: 20px;
+}
+.I1 {
+    width: 1px;
+    height: 1px;
+    margin-top: 1.5%;
+    margin-left: 0%;
+    font-size: 20px;
+}
+.M1 {
+    width: 1px;
+    height: 1px;
+    margin-top: 1.5%;
+    margin-left: 0%;
+    font-size: 20px;
+}
+.S1 {
+    width: 200px;
+    height: 50px;
+    margin-top: 1.5%;
+    margin-left: 1%;
+    font-size: 20px;
+    border-radius: 10px;
+    color: red;
+}
+.Hem1 {
+    flex-direction: column;
+    width: 50%;
+    height: 30%;
+    margin-top: 100%;
+    margin-right: 100px;
+    padding-bottom: 3%;
+    border: 1px solid black;
+    background-color: white;
+}
+.Second {
+    width: 1px;
+    height: 0.1px;
+    margin-top: 1%;
+    margin-left: 75%;
+    background-color: rgb(100, 100, 250);
+}
+#more {
+    height: 10%;
+    margin-right: 30%;
+}
+input {
+    width: 10%;
+    height: 5%;
+    justify-content: center;
+    margin: 1%;
+    border-radius: 20px;
+}
+.Center {
+    display: flex;
+    background-color: white;
+    justify-content: space-around;
+    margin-top: 2%;
+}
+.Third {
+    width: 45%;
+    height: 30%;
+}
+.Fourth {
+    text-align: start;
+    padding: 5%;
+    width: 30%;
+    height: 350px;
+    top: 10px;
+    left: 800px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgb(227, 211, 244);
+}
+.Fifth {
+    margin-top: 10%;
+}
+.Image {
+    border: 1px solid black;
+    height: 10%;
+    width: 50%;
+    padding: 3%;
+    position: sticky;
+    float: right;
+}
+.Bottom {
+    display: flex;
+    justify-content: space-between;
+}
+.Bottom1 {
+    width: 10%;
+    padding: 10px;
+    color: white;
+    border: 1px solid black;
+    background-color: rgb(169, 169, 243);
+    border-radius: 5px;
+}
+.Bottom2 {
+    width: 10%;
+    padding: 10px;
+    color: white;
+    border: 1px solid black;
+    background-color: rgb(100, 100, 250);
+    border-radius: 5px;
+}
+.Bottom3 {
+    width: 8%;
+    padding: 10px;
+    color: white;
+    border: 1px solid black;
+    background-color: rgb(255, 190, 200);
+    border-radius: 5px;
+}
+.Bottom4 {
+    width: 7%;
+    padding: 10px;
+    color: white;
+    border: 1px solid black;
+    background-color: black;
+    border-radius: 5px;
+}
+.Bottom5 {
+    border: 1px solid black;
+    width: 3%;
+    height: 5%;
+    margin-top: 1.25%;
+    border-radius: 50%;
+    padding: 0.5%;
+}
+.Design {
+    color: white;
+    background-color: blue;
+    width: 20%;
+    text-align: center;
+}
+.Design1 {
+    border: 1px solid white;
+    background-color: blueviolet;
+    color: white;
+    width: 60%;
+    height: 50px;
+    padding: 1%;
+    margin: 15%;
+    border-radius: 10px;
+}
+.Design2 {
+    border: 1px solid white;
+    background-color: blue;
+    color: white;
+    width: 60%;
+    height: 50px;
+    padding: 1%;
+    margin: 15%;
+    border-radius: 10px;
+}
+.Design3 {
+    border: 1px solid white;
+    background-color: blue;
+    color: white;
+    width: 60%;
+    height: 50px;
+    padding: 1%;
+    margin: 15%;
+    border-radius: 10px;
+}
+.Last {
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+}
+.Finish {
+    text-align: start;
+    width: 50%;
+    color: navajowhite;
+    border: 1px solid black;
+    background-color: white;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-right: 5%;
+    border-radius: 10px;
+    padding-left: 5%;
+}
+.Detail {
+    color: navy;
+}
+.N1 {
+    color: white;
+    background-color: black;
+    margin-top: 5%;
+    margin-left: 80%;
+}
